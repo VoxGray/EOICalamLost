@@ -1,0 +1,5 @@
+displayName = [c/ff0000:Calamity: The Lost Themes]
+author = Emissary Of Infinity, DM Dokuro, Turquoise
+version = 1.0
+homepage = https://forums.terraria.org/index.php?threads/calamity-the-lost-themes.93089/
+modReferences = 
